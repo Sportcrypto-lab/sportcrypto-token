@@ -480,11 +480,11 @@
 			]
 		},
 		"SportCrypto.sol": {
-			"keccak256": "0xd9bfdb45eeb001ddd6b7344f96e8bdb6f2ac8080003265dbdc1ee202dc8c3016",
+			"keccak256": "0xc8f35bb5ac62e855cde9ad7fe16a7917f891f41816fac09282f4e214538d43fb",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://ba6625a46f63385509b2b818c1a3e19ba9d0a43dce124b1eb01ac9fd9f1c9013",
-				"dweb:/ipfs/QmWmUuUwFsoGg6DMiBBjaCgeq35cC3ArP5wUt9Q1muGfae"
+				"bzz-raw://11a524a2c20a99eab113c78cca53d1156774ea3ee925fc5f512a4beffc8aeec4",
+				"dweb:/ipfs/QmPxbHjVbwUyjcZNGmWLJxRAuNVSyQgSYFytgny238wLBH"
 			]
 		}
 	},

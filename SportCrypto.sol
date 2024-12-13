@@ -9,7 +9,7 @@ contract Sportcrypto {
     mapping(address => mapping(address => uint)) public allowance;
 
     // Token properties
-    uint public totalSupply = 500000.0 * 10 ** 18; // Fixed supply of 500,000 SP tokens
+    uint256 public totalSupply = 1000000*10**18; // 1,000,000 tokens * 10^18 (Wei per token)
     string public name = "SportCrypto"; // Token name
     string public symbol = "SP"; // Token symbol
     uint8 public decimals = 18; // Token decimal places
