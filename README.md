@@ -71,8 +71,8 @@ You can deploy the Sportcrypto Token smart contract using **Remix** or **Hardhat
 
 ## Documentation and Resources
 
-- [Sportcrypto Whitepaper](https://rb.gy/d1xa8f)
-- [Sportcrypto Official Website](https://sportcrypto.com)
+- [Sportcrypto Whitepaper](https://rb.gy/opdf15)
+- [Sportcrypto Official Website](/////)
 
 ## License
 
