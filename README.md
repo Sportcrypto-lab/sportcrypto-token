@@ -124,7 +124,7 @@ Licensed under the **MIT License**. See the LICENSE file for details.
 ## 🌐 Stay Connected  
 - **Website**: [sportcrypto.org](https://sportcrypto.org) 🌐  
 - **Telegram**: Join the community chat! 💬  
-- **Whitepaper**: Read the blueprint for $SP domination. 📄  
+- **Whitepaper**: Read the blueprint for $SP domination. https://shorturl.at/7g6Kl 📄  
 
 ---
 
